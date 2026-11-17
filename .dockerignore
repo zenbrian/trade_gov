@@ -1,0 +1,15 @@
+.git
+.venv
+.models
+.uv-cache
+.test-output
+**/__pycache__
+**/*.pyc
+*.mitm
+.env
+.env.*
+tests
+docs
+companies.csv
+data/*
+!data/input_gc453.csv

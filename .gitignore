@@ -1,0 +1,16 @@
+.venv/
+.uv-cache/
+.models/
+__pycache__/
+*.pyc
+*.mitm
+.test-output/
+.env
+.env.*
+companies.csv
+data/*
+!data/input_gc453.csv
+!data/input_ch1.csv
+!data/gc453_chapter_counts.csv
+!data/gc453_validation.json
+*.csv.tmp
